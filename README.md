@@ -1,4 +1,4 @@
-# GHPR raw data
+# GHPR Raw Data
 Raw data for the [GHPR dataset](https://github.com/soroushj/ghpr-dataset).
 
 This repository contains JSON files that represent issues and pull requests included in the GHPR dataset.
